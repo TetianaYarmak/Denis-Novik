@@ -54,6 +54,7 @@ p {
 
     a:hover {
       color: black;
+      font-weight: 700;
     }
   }
 }
@@ -171,6 +172,10 @@ p {
     font-weight: bold;
     letter-spacing: 0.1em;
   }
+
+  button:hover {
+    background-color: red;
+  }
 }
 
 .img-socials {
@@ -181,6 +186,10 @@ p {
   img {
     width: 40px;
     height: 40px;
+  }
+
+  a:hover {
+    opacity: 0.5;
   }
 }
 
