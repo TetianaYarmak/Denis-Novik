@@ -171,10 +171,12 @@ p {
     font-size: 18px;
     font-weight: bold;
     letter-spacing: 0.1em;
+    border: 1px solid black ;
   }
 
   button:hover {
     background-color: red;
+    border-color: red;
   }
 }
 
